@@ -1,0 +1,17 @@
+.btn {
+  cursor: pointer;
+}
+
+.box {
+  width: 100px;
+  aspect-ratio: 1/1;
+  border: 1px solid black;
+}
+
+.box.double-clicked {
+  background-color: cornflowerblue;
+}
+
+.box.clicked {
+  background-color: crimson;
+}
