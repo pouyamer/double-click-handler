@@ -17,5 +17,6 @@ const addDoubleClickListener = (
     }
 
     onDoubleClick()
+    onceClicked = false
   })
 }
